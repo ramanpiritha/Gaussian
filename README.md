@@ -6,8 +6,17 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
-
+## Algorithm
+```
+Step1 :
+Import the numpy module to use the built-in functions for calculation.
+Step 2:
+Type the program to be executed.
+Step 3:
+Using the built-in function, we can find the solutions.
+Step 4:
+Print the value and end the program
+```
 ## Program:
 ```
 Program to solve a matrix using Gaussian elimination without partial pivoting.
